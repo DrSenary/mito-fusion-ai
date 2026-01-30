@@ -45,7 +45,7 @@ This work bridges computational drug discovery with mitochondrial biology, offer
 - Data from PubChem, DrugBank
 
 ## Contributing
-This project is part of Chemical biology research in mitochondrial-targeted neurotherapeutics. Suggestions and collaborations welcome!
+This project is part of Chemical biology research in mitochondrial-targeted neurotherapeutics. Happy to hear for Suggestions and collaborations!
 
 ## License
 Academic/Research Use

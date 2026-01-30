@@ -27,7 +27,7 @@ df_simple.columns = ['pubchem_id', 'smiles', 'activity_outcome', 'wt_average']
 df_simple['wt_average'] = pd.to_numeric(df_simple['wt_average'], errors='coerce')
 
 # 6. Create Active/Inactive label (1/0)
-THRESHOLD = 50  # ≥50% inhibition = active
+THRESHOLD = 57.94  # ≥57.94% inhibition = active
 df_simple['active'] = (df_simple['wt_average'] >= THRESHOLD).astype(int)
 
 # 7. Remove any rows with missing SMILES or wt_average

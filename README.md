@@ -1,4 +1,3 @@
-# mito-fusion-ai
 # Project: MitoFusionAI - AI-Powered Drug Repurposing for Mitochondrial Dynamics Regulation
 
 ## Scientific Context

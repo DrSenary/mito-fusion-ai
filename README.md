@@ -1,4 +1,4 @@
-# Project: MitoFusionAI - AI-Powered Drug Repurposing for Mitochondrial Dynamics Regulation
+MitoFusionAI - AI-Powered Drug Repurposing for Mitochondrial Dynamics Regulation
 
 ## Scientific Context
 Parkinson's disease and other neurodegenerative disorders are characterized by impaired mitochondrial dynamics, particularly dysfunctional mitochondrial fission/fusion balance. DRP1 (Dynamin-Related Protein 1) mediates mitochondrial fission, and enhancing its activity may promote mitochondrial health in neurons. This project uses machine learning to identify FDA-approved drugs that may inhibit mitochondrial fusion, thereby indirectly promoting DRP1-mediated fission for potential neuroprotective effects.

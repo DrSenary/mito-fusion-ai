@@ -21,7 +21,7 @@ Develop a machine learning pipeline to predict mitochondrial fusion inhibitors f
 
 ## Key Results
 - Model Performance: 0.783 AUC on scaffold-split test set
-- Top Candidates:  and other FDA drugs with predicted fusion inhibition
+- Top Candidates: Fluphenazine, prochlorperazine and other FDA drugs with predicted fusion inhibition
 - Biological Relevance: Several top predictions have known mitochondrial effects
 
 ## Biological Significance

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>🧬 MitoFusionAI</b><br>
+  <b>MitoFusionAI</b><br>
   <i>AI-Powered Drug Repurposing for Mitochondrial Dynamics Regulation</i>
 </h1>
 

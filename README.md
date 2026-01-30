@@ -10,7 +10,7 @@ Parkinson's disease and other neurodegenerative disorders are characterized by i
 Develop a machine learning pipeline to predict mitochondrial fusion inhibitors from high-throughput screening data, then repurpose these predictions to identify FDA-approved drugs with potential neuroprotective properties through mitochondrial dynamics modulation.
 
 ## Dataset & Methods
-- Primary Dataset: PubChem BioAssay AID 743254 - Mitochondrial Fusion Inhibitors Screen (~200,000 compounds)
+- Primary Dataset: PubChem BioAssay AID 1362 - Chemical Genetic Screen to Identify Inhibitors of Mitochondrial Fusion - Primary Screen (~200,000 compounds) National Center for Biotechnology Information (2026). PubChem Bioassay Record for AID 1362, Chemical Genetic Screen to Identify Inhibitors of Mitochondrial Fusion - Primary Screen, Source: SRMLSC. Retrieved January 30, 2026 from https://pubchem.ncbi.nlm.nih.gov/bioassay/1362.
 - Target: Indirect DRP1 activation via fusion inhibition
 - ML Approach: XGBoost with scaffold-split validation (AUC: 0.783)
 - Fingerprints: Morgan fingerprints (1024 bits)

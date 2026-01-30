@@ -3,7 +3,7 @@
 ## Scientific Context
 Parkinson's disease and other neurodegenerative disorders are characterized by impaired mitochondrial dynamics, particularly dysfunctional mitochondrial fission/fusion balance. DRP1 (Dynamin-Related Protein 1) mediates mitochondrial fission, and enhancing its activity may promote mitochondrial health in neurons. This project uses machine learning to identify FDA-approved drugs that may inhibit mitochondrial fusion, thereby indirectly promoting DRP1-mediated fission for potential neuroprotective effects.
 
-## 🎯 Project Goal
+## Project Goal
 Develop a machine learning pipeline to predict mitochondrial fusion inhibitors from high-throughput screening data, then repurpose these predictions to identify FDA-approved drugs with potential neuroprotective properties through mitochondrial dynamics modulation.
 
 ## Dataset & Methods
@@ -30,7 +30,7 @@ This work bridges computational drug discovery with mitochondrial biology, offer
 2. Insights into chemical features promoting mitochondrial fission
 3. Framework for similar target-agnostic phenotypic screening repurposing
 
-## 🚀 Applications
+## Applications
 - Drug Repurposing: Immediate candidates for experimental validation
 - Chemical Biology: Understanding structure-activity relationships for fusion inhibition
 - Therapeutic Development: Potential leads for mitochondrial-targeted neuroprotectives
